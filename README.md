@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training. Updated by BYU
+Repo for the `GitHub Actions Fundamentals` training. Updated by BYU, again. 
 
 ## 👉 Objectives
 
